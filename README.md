@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aravind Reddy 
-- 👀 I’m interested in new technologies
-- 🌱 I’m currently learning Web technologies
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in new technologies 
+- 🌱 I’m currently learning Data Science and web technologies
 - 📫 How to reach me:- tsaiaravindreddy@gmail.com
 
 <!---
