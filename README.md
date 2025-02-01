@@ -2,7 +2,7 @@
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning Web technologies
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:- aravindreddythippanuri@gmail.com
+- 📫 How to reach me:- tsaiaravindreddy@gmail.com
 
 <!---
 aravindreddythippanuri/aravindreddythippanuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
